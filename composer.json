@@ -3,7 +3,7 @@
     "description": "Laravel packeg for Blockchain.info API",
     "type": "library",
     "license": "MIT",
-    v1.0.0
+    "version": "v1.0.0",
     "authors": [
         {
             "name": "Kuntal Gupta",
