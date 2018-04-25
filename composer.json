@@ -1,7 +1,9 @@
 {
     "name": "gupta/blockchain",
-    "description": "This is My First Packeg for Laravel, This packeg is use for Blockchain.info API",
+    "description": "Laravel packeg for Blockchain.info API",
     "type": "library",
+    "license": "MIT",
+    v1.0.0
     "authors": [
         {
             "name": "Kuntal Gupta",
